@@ -2,11 +2,11 @@ Hi there 👋
 
 I am a third-year undergrad at the NIT PATNA computer science department. 2-star coder at Codechef, quick learner, full stack web developer, and a machine learning enthusiast.... like learning new skills and them helping others learn them...
 
-🔭 I’m currently working on Image Processing
+🔭 I’m currently working on Hate Speech Detection
 
 💬 Ask me about anything
 
-📫 How to reach me: Email LinkedIn 
+📫 How to reach me: Email:rukmani2556@gmail.com  
 
 😄 Pronouns: She/Her
 
