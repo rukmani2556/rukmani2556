@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am a third-year undergrad at the NIT PATNA computer science department. 2-star coder at Codechef, quick learner, full stack web developer, and a machine learning enthusiast.... like learning new skills and them helping others learn them...
+I am a final year undergrad student at NIT PATNA computer science department. 2-star coder at Codechef, quick learner, full stack web developer, and a machine learning enthusiast.... like learning new skills and then utilizing them to create useful applications...
 
 🔭 I’m currently working on NLP- Sentiment Analysis
 
